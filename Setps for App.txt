@@ -1,0 +1,7 @@
+Steps to run app
+1.Open prerequisiteFile.R and run the file 
+2.Make sure all libraries are installed and there is no failure in importing libraries
+3.Make sure you have python and nltk in python installed
+4.The udipipe English model is provided
+5.Make sure this file(english-ud-2.0-170801) is in the present working directory
+6.Open ui.R and Run App
